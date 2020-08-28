@@ -1,7 +1,7 @@
 ### Hi there 👋
-<p align="center">
-  <img src="Portada Richard Palacios García.png">
-</p>
+
+![Alt text](https://github.com/rpalaciosg/rpalaciosg/blob/master/Portada%20Richard%20Palacios%20Garc%C3%ADa.png?raw=true "Portada")
+
 
 <!--
 **rpalaciosg/rpalaciosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
