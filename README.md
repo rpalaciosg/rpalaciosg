@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 -->
 
 ![Richard Palacios G's github stats](https://github-readme-stats.vercel.app/api?username=rpalaciosg)
+![Richard Palacios G's github stats](https://github-readme-stats.vercel.app/api?username=rpalaciosg&theme=great-gatsby&show_icons=true)
