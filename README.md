@@ -1,5 +1,7 @@
 ## Hi there, my name is Richard 👋
 
+Software developer enthusiast. I'm constantly learning and growing. Enjoying javasript. I love open source software and contributing to communities.
+
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rpalaciosg_)](https://twitter.com/rpalaciosg_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/richardpalaciosgarcia/)](https://www.linkedin.com/in/richardpalaciosgarcia/)
 [![Website](https://img.shields.io/badge/Web-richardpalaciosg.dev-black)](https://www.richardpalaciosg.dev/)
