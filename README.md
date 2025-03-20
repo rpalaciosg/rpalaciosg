@@ -5,7 +5,7 @@ Javascript Software Engineer enthusiast. I'm constantly learning and growing. En
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rpalaciosg_)](https://twitter.com/rpalaciosg_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/richardpalaciosgarcia/)](https://www.linkedin.com/in/richardpalaciosgarcia/)
 [![Website](https://img.shields.io/badge/Web-richardpalaciosg.dev-black)](https://rapg-dev.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-Web_Developer-black)](https://drive.google.com/file/d/1zJ2vXxs9pB9ub6iHVp-JgWJrV9UrmfE-/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Web_Developer-black)](https://drive.google.com/file/d/1DuXYmL7K24IAUHkss26HVOdB3hwNyMo2/view?usp=drive_link)
 
 <!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
