@@ -3,7 +3,7 @@
     <a href="https://www.richardpalacios.dev/">me</a> .
     <a href="https://www.richardpalacios.dev/posts">blog</a> .                
     <a href="https://www.linkedin.com/in/richardpalaciosgarcia/">linkedIn</a> .
-    <a href="https://drive.google.com/file/d/1DuXYmL7K24IAUHkss26HVOdB3hwNyMo2/view?usp=drive_link">cv</a>
+    <a href="https://drive.google.com/file/d/1gPZwGofmu1wI-w2UR5T7MebbOIvBzKE3/view?usp=sharing">cv</a>
   </samp>
 </p>
 
