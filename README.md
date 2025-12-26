@@ -11,15 +11,11 @@
 
   ⚡ Backend Software Engineer with 9+ years of experience in the financial sector.</br>
   🛠️ I work mainly on backend systems using .NET, Node.js, SQL databases, and REST APIs.</br>  
-  I have experience with critical systems such as core banking and home banking.</br></br>
-
+  I have experience with critical systems such as core banking and home banking.</br>
   I have worked on system modernization projects, migrating legacy systems and improving performance and stability.</br></br>
-
   🪁My main focus is backend development, with additional experience building internal web applications using JavaScript and React.js</br>
 
   📍 Cuenca, Ecuador 
-
-*Open to collaborating on meaningful projects!*
 
 <!--
 Hi, I'm Richard 👋
