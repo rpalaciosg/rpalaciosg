@@ -10,8 +10,7 @@
 **Hi, I'm Richard 👋**
 
   ⚡ Backend Software Engineer with 9+ years of experience in the financial sector.</br>
-  🛠️ I work mainly on backend systems using .NET, Node.js, SQL databases, and REST APIs.</br>
-  Expertise: JavaScript, Node.js, .NET, React.js</br>
+  🛠️ I work mainly on backend systems using .NET, Node.js, SQL databases, and REST APIs.</br>  
   I have experience with critical systems such as core banking and home banking.</br></br>
 
   I have worked on system modernization projects, migrating legacy systems and improving performance and stability.</br></br>
