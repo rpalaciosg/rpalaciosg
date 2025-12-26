@@ -9,17 +9,16 @@
 
 **Hi, I'm Richard 👋**
 
-  ⚡ Software Engineer | 9+ years of experience</br>
-  🛠️ Expertise: JavaScript, Node.js, .NET, React.js</br>
-  🪁 Passion: Modernizing legacy systems, adopting cutting-edge tech, and implementing best practices</br>
+  ⚡ Backend Software Engineer with 9+ years of experience in the financial sector.</br>
+  🛠️ I work mainly on backend systems using .NET, Node.js, SQL databases, and REST APIs.</br>
+  Expertise: JavaScript, Node.js, .NET, React.js</br>
+  I have experience with critical systems such as core banking and home banking.</br></br>
 
-**Mindset:**
+  I have worked on system modernization projects, migrating legacy systems and improving performance and stability.</br></br>
 
-- Problem-solver committed to high-quality work.
-- "Not every problem has a perfect solution, but we can always make things a little better every day."
-- I lead by example—listening, learning, and guiding with authenticity.
+  🪁My main focus is backend development, with additional experience building internal web applications using JavaScript and React.js</br>
 
-**Goal:** Drive efficiency and deliver impactful results through perseverance.
+  📍 Cuenca, Ecuador 
 
 *Open to collaborating on meaningful projects!*
 
